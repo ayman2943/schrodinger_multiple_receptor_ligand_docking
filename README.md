@@ -520,13 +520,6 @@ And cite Schrodinger Glide:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work*
 
 ## 🙏 Acknowledgments
 
@@ -537,7 +530,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 For questions or issues:
 - GitHub Issues: [https://github.com/yourusername/glide-docking-pipeline/issues](https://github.com/yourusername/glide-docking-pipeline/issues)
-- Email: your.email@example.com
+- Email: aymanbin2943@gmail.com
 
 ---
 
