@@ -85,7 +85,7 @@ Before submitting:
 
 ## Questions?
 
-Open an issue with the `question` label or email [your.email@example.com]
+Open an issue with the `question` label or email [aymanbin2943@gmail.com]
 
 ## Code of Conduct
 
